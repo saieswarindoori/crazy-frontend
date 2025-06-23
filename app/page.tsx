@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>My first</h1>
+  return <h1>Vasim uto</h1>
 }
